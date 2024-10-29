@@ -1,6 +1,6 @@
 # Compositional Segmentation of Cardiac Images Leveraging Metadata
 
-## Accepted at WACV 2025 (IEEE/CVF Winter Conference on Applications of Computer Vision)
+## [Accepted at WACV 2025 (IEEE/CVF Winter Conference on Applications of Computer Vision)](https://wacv2025.thecvf.com/)
 
 
 # Overview
