@@ -33,6 +33,8 @@ The segmentaton models do not apply any activation on logits, so add activation 
 
 https://github.com/kabbas570/CompSeg-MetaData/blob/main/Compsitional-Model/Model_without_CMFI.py
 
+Model_without_CMFI.py
+
 # Citation
 @inproceedings{author2025compsegmetadata,
 
