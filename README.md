@@ -45,7 +45,7 @@ The segmentaton models do not apply any activation on logits, so add activation 
   
   author={Abbas Khan, Muhammad Asad, Martin Benning, Caroline Roney, and Greg Slabaugh},
   
-  booktitle={WACV},
+  booktitle={Proceedings of the IEEE/CVF Winter Conference on Applications of Computer Vision},
   
   year={2025}
 }
