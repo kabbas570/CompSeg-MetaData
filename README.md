@@ -19,6 +19,7 @@ This repository provides the code implementation for our paper, "Compositional S
 Our approach was evaluated on two modalities using publicly available datasets:
 
 ***M&Ms-2 Dataset (MRI)***
+
 ***CAMUS Dataset (Ultrasound)***
 
 Results demonstrate state-of-the-art segmentation performance across diverse cardiac imaging modalities.
