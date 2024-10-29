@@ -9,11 +9,11 @@ This repository provides the code implementation for our paper, "Compositional S
 ![image](https://raw.githubusercontent.com/kabbas570/CompSeg-MetaData/09d175b70f1e6c1a4b33c172531754a7eb72f4f1/figures/arch.png)
 
 ## Key Contributions:
-***Compositional Segmentation:*** A hierarchical approach that performs.
+***Compositional Segmentation:*** A hierarchical approach that performs super and sub-segmentation. 
 
 ***Super-segmentation:*** Localizes the heart.
 
-***Sub-segmentation:***  Further segments detailed structures within the heart, including left and right ventricles (LV, RV) and myocardium (MYO).
+***Sub-segmentation:***  Further segments detail structures within the heart, including the left and right ventricles (LV, RV) and the myocardium (MYO).
 
 ***Cross-Modal Feature Integration (CMFI):*** We introduce a CMFI module to leverage metadata (e.g., scanner type, medical condition, demographic details) as additional context, enhancing segmentation accuracy and robustness.
 
