@@ -28,7 +28,7 @@ Results demonstrate state-of-the-art segmentation performance across diverse car
 
 ## Segmentation Model 
 
-The segmentaton models do not apply any activation on logits, so add activation after the last 1x1 conv layer or incorporate it in your loss function. Change Num_Classes to your (Segmentation class + 1).(1 for background). We have provided both versions, Compsitional-Model/Model_with_CMFI.py 
+The segmentaton models do not apply any activation on logits, so add activation after the last 1x1 conv layer or incorporate it in your loss function. Change Num_Classes to your (Segmentation class + 1).(1 for background). We have provided both versions, [Compsitional-Model/Model_with_CMFI.py ](https://github.com/kabbas570/CompSeg-MetaData/blob/d3f858abe8de7e598d139fd31230c120b016acd8/Compsitional-Model/Model_with_CMFI.py) and https://github.com/kabbas570/CompSeg-MetaData/blob/d3f858abe8de7e598d139fd31230c120b016acd8/Compsitional-Model/Model_without_CMFI.py.
 
 
 # Citation
