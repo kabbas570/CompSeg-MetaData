@@ -23,3 +23,19 @@ Our approach was evaluated on two modalities using publicly available datasets:
 ***CAMUS Dataset (Ultrasound)***
 
 Results demonstrate state-of-the-art segmentation performance across diverse cardiac imaging modalities.
+
+# Training Steps
+
+## Segmentation Model 
+
+The segmentaton model is here; it does not apply any activation on logits, so add activation after the last 1x1 conv layer or incorporate it in your loss function. Change Num_Classes to your (Segmentation class + 1).(1 for background)
+
+
+# Citation
+@inproceedings{author2025compsegmetadata,
+  title={Compositional Segmentation of Cardiac Images Leveraging Metadata},
+  author={Abbas Khan, Muhammad Asad, Martin Benning, Caroline Roney, and Greg Slabaugh},
+  booktitle={WACV},
+  year={2025}
+}
+
