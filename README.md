@@ -33,9 +33,13 @@ The segmentaton model is here; it does not apply any activation on logits, so ad
 
 # Citation
 @inproceedings{author2025compsegmetadata,
+
   title={Compositional Segmentation of Cardiac Images Leveraging Metadata},
+  
   author={Abbas Khan, Muhammad Asad, Martin Benning, Caroline Roney, and Greg Slabaugh},
+  
   booktitle={WACV},
+  
   year={2025}
 }
 
