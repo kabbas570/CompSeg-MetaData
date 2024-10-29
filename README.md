@@ -1,11 +1,9 @@
 # Compositional Segmentation of Cardiac Images Leveraging Metadata
 
+## Accepted at WACV 2025 (IEEE/CVF Winter Conference on Applications of Computer Vision)
 
-**Accepted at WACV 2025 (IEEE/CVF Winter Conference on Applications of Computer Vision)**
-Authors: Anonymous for WACV Submission
-Supervisors: Muhammad Asad, Martin Benning, Caroline Roney, Greg Slabaugh
 
-Overview
+# Overview
 This repository provides the code implementation for our WACV 2025 paper, "Compositional Segmentation of Cardiac Images Leveraging Metadata." Our work presents a novel compositional segmentation approach to efficiently segment cardiac structures by integrating metadata, such as patient demographics and acquisition parameters, to conditionally modulate the segmentation network.
 
 Key Contributions
