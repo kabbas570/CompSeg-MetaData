@@ -6,7 +6,7 @@
 # Overview:
 This repository provides the code implementation for our paper, "Compositional Segmentation of Cardiac Images Leveraging Metadata." Our work presents a novel compositional segmentation approach to efficiently segment cardiac structures by integrating metadata, such as patient demographics and acquisition parameters, to modulate the segmentation network conditionally.
 
-https://raw.githubusercontent.com/kabbas570/CompSeg-MetaData/09d175b70f1e6c1a4b33c172531754a7eb72f4f1/figures/arch.png
+![image](https://raw.githubusercontent.com/kabbas570/CompSeg-MetaData/09d175b70f1e6c1a4b33c172531754a7eb72f4f1/figures/arch.png)
 
 ## Key Contributions:
 ***Compositional Segmentation:*** A hierarchical approach that performs.
