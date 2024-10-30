@@ -2,6 +2,8 @@
 
 ## [Accepted at WACV 2025 (IEEE/CVF Winter Conference on Applications of Computer Vision)](https://wacv2025.thecvf.com/)
 
+You can view or download the metadata [here](https://github.com/kabbas570/kabbas570.github.io/blob/bfca36a9763fe68771aa543b71a53c74161c033b/files/WACV_2025_Template_CompSeg_metadata.pdf).
+
 
 # Overview:
 This repository provides the code implementation for our paper, "Compositional Segmentation of Cardiac Images Leveraging Metadata." Our work presents a novel compositional segmentation approach to efficiently segment cardiac structures by integrating metadata, such as patient demographics and acquisition parameters, to modulate the segmentation network conditionally.
