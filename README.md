@@ -2,7 +2,7 @@
 
 ## [Accepted at WACV 2025 (IEEE/CVF Winter Conference on Applications of Computer Vision)](https://wacv2025.thecvf.com/)
 
-You can view or download the paper [HERE](https://github.com/kabbas570/kabbas570.github.io/blob/bfca36a9763fe68771aa543b71a53c74161c033b/files/WACV_2025_Template_CompSeg_metadata.pdf).
+You can view or download the paper [HERE](https://arxiv.org/abs/2410.23130).
 
 
 # Overview:
