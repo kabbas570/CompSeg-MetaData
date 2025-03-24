@@ -43,3 +43,13 @@ def gen_meta_CAMUS(sex, image_quality,es,nb_frame,age,ef,frame_rate, size):   ##
     temp[5] = float(ef)
     temp[6] = float(frame_rate)
     return temp
+def gen_meta_CAMUS_n(sex, image_quality,es,nb_frame,age,ef,frame_rate, size):   ## This is for CAMUS MetaData
+    temp = np.zeros(size,dtype=float)
+    temp[0] = float(sex_mapping[sex])
+    temp[1] = float(quality_mapping[image_quality])
+    temp[2] = float(es)
+    #temp[3] = float(nb_frame)
+    temp[3] = float(age)
+    temp[4] = float(ef)
+    #temp[6] = float(frame_rate)
+    return temp
